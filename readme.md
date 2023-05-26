@@ -1,6 +1,8 @@
 # Project TPA-5
 
 Project ini adalah project web services menggunakan mongodb dan mongoose.
+Web service dan RESTful API yang dibuat digunakan untuk CRUD standar sebuah ToDoList.
+menerapkan authentication dan authorization,menerapkan response code.
 
 ## Configuration
 

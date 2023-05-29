@@ -13,11 +13,11 @@ app.use(cors());
 app.use(express.json());
 connectDB();
 
-app.use("/todos", auth, todos);
+app.use("/todo", auth, todos);
 app.use("/users", users);
-app.get("/", (req, res) => res.send("Hello world"));
+app.get("/", (req, res) => res.send("Hello kamu berhasil jalankan endpoint ini"));
 app.all("*", (req, res) =>
-  res.send("Sorry, the route you are going to does not exist")
+  res.send("Maaf, route yang ada tuju tidak ada")
 );
 
-app.listen(port, () => console.log(`Server running on port ${port}`));
+app.listen(port, () => console.log(`Server Berjalan di port ${port}`));

@@ -16,3 +16,7 @@ Pull/clone terlebih dahulu untuk codenya, kemudian file .env-example di rename m
 Untuk menjalankannya :
 1. npm install
 2. npm run dev
+
+
+#link deploy 
+tugas-tpa-5.vercel.app

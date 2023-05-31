@@ -1,4 +1,4 @@
-link deploy 
+link deploy:
 tugas-tpa-5.vercel.app
 
 

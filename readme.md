@@ -1,3 +1,7 @@
+link deploy 
+tugas-tpa-5.vercel.app
+
+
 # Project TPA-5
 
 Project ini adalah project web services menggunakan mongodb dan mongoose.
@@ -17,6 +21,3 @@ Untuk menjalankannya :
 1. npm install
 2. npm run dev
 
-
-#link deploy 
-tugas-tpa-5.vercel.app
